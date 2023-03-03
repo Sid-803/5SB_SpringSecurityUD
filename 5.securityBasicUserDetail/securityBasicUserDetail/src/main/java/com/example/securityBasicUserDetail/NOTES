@@ -1,0 +1,3 @@
+UserDetail - predefined Interface
+           - It has loadByUserName method which returns object of UserDetail
+           -user name is passed in this method as parameter
